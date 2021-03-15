@@ -9,19 +9,17 @@ settings:
 
 # 要保存的 users 数据
 users:
-  - xaoxuu
+  - volantis-x
 
 # 要保存 contributors 数据的仓库
 contributors:
-  - xaoxuu/github-api
-  - xaoxuu/hexo-theme-stellar
+  - volantis-x/hexo-theme-volantis
+  - volantis-x/community
 
 # 要保存 releases 数据的仓库
 releases:
-  - xaoxuu/github-api
-  - xaoxuu/hexo-theme-stellar
+  - volantis-x/hexo-theme-volantis
 
-# 要保存 releases 数据的仓库
+# 要保存 issues 数据的仓库
 issues:
-  - xaoxuu/github-api
-  - xaoxuu/hexo-theme-stellar
+  - volantis-x/hexo-theme-volantis
